@@ -1,4 +1,4 @@
-# [1.5.0](https://github.com/antonbabenko/terraform-skill/compare/v1.0.0...v1.5.0) (2026-01-19)
+# [1.6.0](https://github.com/antonbabenko/terraform-skill/compare/v1.0.0...v1.6.0) (2026-02-02)
 
 
 ### Bug Fixes
